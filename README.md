@@ -1,7 +1,18 @@
-# Getting Started with Create React App
+# Vega Pay Assignment
 
 
 https://github.com/kanon551/vegapay/assets/88090133/16ba2c0c-9688-41ee-8a6e-cfaf1ddf2531
+
+# Tech Stack Used || Reasons
+1. Material -UI : MIT Licensed Components, Stable Versions, Community Support, Excellent Documentation , Easily Ready to Use
+2. Styled-Components : To get the flavor of functional css, Props enabled css, Works to alter Global classNames of MUI easily.
+3. Typescript : Strong code, Maintainable, Professional
+4. Redux : while Local Storage is for small MB data, cache files and site data, Similarly Context API for Device orientation and helpful where data doesnt change for short Interval.
+           REDUX can maintain CRUD easily across the react environment , easily manipulate state of application
+5. Responsive-Web :  Standard
+6. Form Validation and Snackbar : Standard
+7. Destructing the code at component level :  Micro code management, Clean and Resuability
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
